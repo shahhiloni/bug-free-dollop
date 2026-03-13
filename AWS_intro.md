@@ -46,14 +46,3 @@ You can connect your website, mobile app, or database with AWS services.
 8. Automation 
 - AWS allows automation using tools like scripts and APIs, which helps in faster deployment and management of applications.
 
-
----------------------  AWS Architecture ----------------
-- Amazon Web Services (AWS) Architecture refers to the design and structure of cloud resources used to build and run applications on AWS.
-It shows how different AWS services work together to create a secure, scalable, and highly available system.
-
-- In simple words:
-AWS Architecture = How cloud services are arranged and connected to run an application.
-
----------  Basic AWS Architecture for a Web Application ----------
-1. DNS (Domain Name System)
- 
